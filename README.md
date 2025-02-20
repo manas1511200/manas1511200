@@ -26,14 +26,7 @@ I'm passionate about operating systems and exploring the inner workings of compu
 
 ---
 
-## Snake Game
 
-I built a Snake Game project for fun! Check out the interactive snake animation below which reflects my GitHub activity and passion for creative coding.  
-[![Snake Animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)](https://github.com/DenverCoder1/github-readme-snake)
-
-*Click the snake animation above to learn more about the project!*
-
----
 
 ## Projects & Contributions
 
