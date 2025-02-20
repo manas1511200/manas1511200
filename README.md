@@ -5,7 +5,11 @@
 - 📫 How to reach me manaskhairnar1511@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  [![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=manas1511200)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=manas1511200)](https://github.com/anuraghazra/github-readme-stats)
+[![Manas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manas1511200)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <!---
