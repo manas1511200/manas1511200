@@ -12,7 +12,7 @@ I'm passionate about operating systems and exploring the inner workings of compu
 - **Currently Learning:** *Python(AI/ML)*
 - **Looking to Collaborate On:** 
 - **Reach Me:** [manaskhairnar1511@gmail.com](mailto:manaskhairnar1511@gmail.com)
-- **Fun Fact:** *[Add a fun fact about yourself here]*
+- **Fun Fact:** 
 
 ---
 
