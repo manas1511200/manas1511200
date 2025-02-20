@@ -1,4 +1,3 @@
-![Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+Manas%27s+Profile)
 
 # Hi, I'm Manas 👋
 
@@ -10,8 +9,8 @@
 I'm passionate about operating systems and exploring the inner workings of computer systems. I love coding, contributing to open-source projects, and collaborating with like-minded developers.
 
 - **Interests:** Operating Systems, System Programming, Linux, Open Source
-- **Currently Learning:** *[Your Current Learning Topic]*
-- **Looking to Collaborate On:** *[Your Collaboration Interests]*
+- **Currently Learning:** *Python(AI/ML)*
+- **Looking to Collaborate On:** 
 - **Reach Me:** [manaskhairnar1511@gmail.com](mailto:manaskhairnar1511@gmail.com)
 - **Fun Fact:** *[Add a fun fact about yourself here]*
 
