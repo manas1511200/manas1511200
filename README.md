@@ -1,6 +1,8 @@
-![Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+Manas%27s+Profile)
 
-# Hi, I'm Manas 👋
+# ![Uploading Screenshot From 2025-02-22 10-30-06.png…]()
+
+
+Hi, I'm Manas 👋
 
 ### OS Enthusiast | System-Level Developer
 
