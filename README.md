@@ -1,5 +1,4 @@
 
-# ![Uploading Screenshot From 2025-02-22 10-30-06.png…]()
 
 
 Hi, I'm Manas 👋
