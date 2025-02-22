@@ -21,14 +21,6 @@ I'm a systems enthusiast who loves diving deep into the world of computer archit
 
 ---
 
-## Interactive Elements & Projects
-
-### GitHub Contribution Snake 🐍
-
-<p align="center">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/snake-yaml/snake-yaml/docs/snake.gif" />
-</p>
-
 
 ---
 
