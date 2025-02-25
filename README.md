@@ -3,7 +3,6 @@ Hi, I'm Manas 👋
 ---
 
 ## About Me
-![](https://komarev.com/ghpvc/?username=manas1511200)
 
 I'm a systems enthusiast who loves diving deep into the world of computer architecture and operating systems. Coding, contributing to open-source projects, and collaborating with fellow developers are my passions.
 
@@ -30,5 +29,6 @@ I'm a systems enthusiast who loves diving deep into the world of computer archit
 Feel free to explore my repositories and contributions. I'm always excited to collaborate on new projects or discuss innovative ideas in system programming, open source, AI/ML, and game development.
 
 ---
+![](https://komarev.com/ghpvc/?username=manas1511200)
 
 *Thanks for stopping by my profile!*
