@@ -7,7 +7,7 @@ Hi, I'm Manas 👋
 I'm a systems enthusiast who loves diving deep into the world of computer architecture and operating systems. Coding, contributing to open-source projects, and collaborating with fellow developers are my passions.
 
 -   **Interests:** System Programming, Linux, Open Source, Python (AI/ML)
--   **Currently Learning:** Expanding my knowledge in Python for AI/ML and exploring system-level programming.
+-   **Currently Learning:** Expanding my knowledge in App Dev.
 -   **Reach Me:** [manaskhairnar1511@gmail.com](mailto:manaskhairnar1511@gmail.com)
 
 ---
