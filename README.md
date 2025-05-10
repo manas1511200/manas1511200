@@ -4,7 +4,7 @@ Hi, I'm Manas 👋
 
 ## About Me
 
-I'm a systems enthusiast who loves diving deep into the world of computer architecture and operating systems. Coding, contributing to open-source projects, and collaborating with fellow developers are my passions.
+I'm a systems enthusiast who loves diving deep into the world of computer architecture and operating systems. Coding, contributing to open-source projects\.
 
 -   **Interests:** ..
 -   **Currently Learning:** Expanding my knowledge in App Dev.
