@@ -6,7 +6,7 @@ Hi, I'm Manas 👋
 
 I'm a systems enthusiast who loves diving deep into the world of computer architecture and operating systems. Coding, contributing to open-source projects\.
 
--   **Interests:** ..
+-   **Interests:** IDK
 -   **Currently Learning:** Expanding my knowledge in App Dev.
 -   **Reach Me:** [manaskhairnar1511@gmail.com](mailto:manaskhairnar1511@gmail.com)
 
